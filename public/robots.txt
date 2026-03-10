@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://selfesteemlove.com/sitemap-index.xml
